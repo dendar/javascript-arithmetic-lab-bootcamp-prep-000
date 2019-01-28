@@ -11,6 +11,6 @@ function multiply(a,b) {
 
 }
 unction divide(a,b) {
-  return a*b
+  return a/b
 
 }
