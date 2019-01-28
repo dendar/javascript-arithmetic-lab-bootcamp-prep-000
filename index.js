@@ -1,4 +1,4 @@
-function preserveDecimal(n) {
-  parseFloat('n')
-  return n
+function add(a,b) {
+  return a+b
+
 }
