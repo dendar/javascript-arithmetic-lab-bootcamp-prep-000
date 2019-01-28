@@ -10,3 +10,7 @@ function multiply(a,b) {
   return a*b
 
 }
+unction divide(a,b) {
+  return a*b
+
+}
